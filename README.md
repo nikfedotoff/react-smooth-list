@@ -45,4 +45,4 @@ Animates its children, one by one.
 | `childTag`          | string   | "div"   | Override the HTML element wrapped around each child element.                                                           |
 | `visible`           | boolean  |         | If not `undefined`, the `visible` prop can be used to control when the fade in occurs. If set to `false` after the fade-in animation completes, the children will fade out one by one. |
 | `onComplete`        | function |         | Specifies a callback to be called when the animation completes.                                                        |
-| `animated`          | boolean  |         |                                                                                                                        |
+| `animated`          | boolean  | true    |                                                                                                                        |
