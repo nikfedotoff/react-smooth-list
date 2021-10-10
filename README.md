@@ -4,6 +4,8 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/46775104/129611954-ab8e1d4e-7e6d-4a59-a089-d2c67ffbf2b7.gif)
 
+See an example [here](https://idiomic.site).
+
 ## Installation
 
 This package is distributed via npm.
