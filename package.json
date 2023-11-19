@@ -1,6 +1,6 @@
 {
   "name": "react-smooth-list",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "🍿 React component for animating an element's children, one by one",
   "author": "Nikita Fedotov",
   "license": "MIT",
@@ -31,7 +31,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^17.0.1"
+    "react": "^18.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
